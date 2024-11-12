@@ -1,0 +1,56 @@
+.fichier{
+    padding: 10px;
+    margin: 10px;
+}
+.fichier:hover{
+    transition: 0.5s;
+   border-radius: 10px;
+   background-color: rgb(223, 198, 115);
+}
+.chemin{
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+.path{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+.retour{
+    padding: 10px;
+    margin: 10px;
+}
+h1{
+    padding: 10px;
+    margin: 10px;
+}
+.dossier{
+    transition: 0.5s;
+    padding: 10px;
+    margin: 10px;
+}
+.dossier:hover{
+    transition: 0.5s;
+   border-radius: 10px;
+   background-color: rgb(177, 177, 177);
+}
+.contentfichier{
+   display: block;
+
+}
+img{
+    margin-left: 5px;
+    width: 20px;
+}
+.tout{
+    border-radius: 10px;
+    padding: 20px;
+    background-color: rgb(228, 228, 228);
+    width: 900px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.txt{
+    background-color: white;
+}
